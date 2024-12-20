@@ -155,11 +155,11 @@ params:
   systems:
     - name: US Analytics Platform
       category: US Servers
-    - name: US Surveys Platform
+    - name: US Survey Platform
       category: US Servers
     - name: EU Analytics Platform
       category: EU Servers
-    - name: EU Surveys Platform
+    - name: EU Survey Platform
       category: EU Servers
 
   # What date format to use?
