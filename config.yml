@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://hsdmetrics.com
+baseURL: https://status.hsdmetrics.com/
 
 # For features like Last modified, you
 # need to use a Git repository. If you
